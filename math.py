@@ -1,7 +1,11 @@
 # Add implementation
 def add(x,y):
-	a=x+y
-	return a
+	
+	return x+y
+<<<<<<< HEAD
+=======
+
+>>>>>>> Bug123
 # Subtract implementation
 def subtract(x,y):
     return x-y
