@@ -2,10 +2,7 @@
 def add(x,y):
 	
 	return x+y
-<<<<<<< HEAD
-=======
 
->>>>>>> Bug123
 # Subtract implementation
 def subtract(x,y):
     return x-y
